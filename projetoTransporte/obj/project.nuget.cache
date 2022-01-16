@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fHRIqAOtS885BJDc8D88Dwg5bYcVSv+gxNQUYoiMacSEMTPfAQJSQX5v9RfDqekPn0028bKm/g/JO1vICciZoA==",
+  "success": true,
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\vitomino\\Programming\\College\\Semester4\\ED\\TPFinal\\projetoTransporte\\projetoTransporte\\projetoTransporte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitub\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

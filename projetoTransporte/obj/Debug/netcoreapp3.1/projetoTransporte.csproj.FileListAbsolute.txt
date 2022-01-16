@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\bin\Debug\netcoreapp3.1\projetoTransporte.exe
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\bin\Debug\netcoreapp3.1\projetoTransporte.deps.json
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\bin\Debug\netcoreapp3.1\projetoTransporte.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\bin\Debug\netcoreapp3.1\projetoTransporte.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\bin\Debug\netcoreapp3.1\projetoTransporte.dll
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\bin\Debug\netcoreapp3.1\projetoTransporte.pdb
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\obj\Debug\netcoreapp3.1\projetoTransporte.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\obj\Debug\netcoreapp3.1\projetoTransporte.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\obj\Debug\netcoreapp3.1\projetoTransporte.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\obj\Debug\netcoreapp3.1\projetoTransporte.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\obj\Debug\netcoreapp3.1\projetoTransporte.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\obj\Debug\netcoreapp3.1\projetoTransporte.dll
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\obj\Debug\netcoreapp3.1\projetoTransporte.pdb
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\projetoTransporte\projetoTransporte\obj\Debug\netcoreapp3.1\projetoTransporte.genruntimeconfig.cache
